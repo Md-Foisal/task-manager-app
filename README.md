@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# Task Manager App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a task management application built using Vue.js and JavaScript, following the requirements of the module 25 assignment.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+
+- **Task Management**: Allows users to add, delete, and mark tasks as completed.
+- **Persistent Data**: Tasks are saved using `localStorage`, so they persist after page reload.
+- **Responsive UI**: A simple, interactive, and user-friendly interface to manage tasks efficiently.
+- **Dynamic Task Styling**: Completed tasks are displayed with a light green background and a red border for easy differentiation.
+
+## Project Setup
+
+1. Clone this repository to your local machine.
+
+   ```bash
+   git clone https://github.com/Md-Foisal/task-manager-app.git
+   ```
